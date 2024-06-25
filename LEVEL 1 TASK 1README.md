@@ -1,5 +1,4 @@
 # Cognifyz-Technologies-Intership
-This is my first GitHub repository of my tasks which i perform in internship with Cognifyz Technologies 
 
 Determine the top three most common cuisines in the dataset and Calculate the percentage of 
 restaurants that serve each of the top cuisines.
